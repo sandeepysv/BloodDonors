@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/3b7cac26334a5f4ac21df66ca5f5059e86d983a1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="29bd9a40adebb952fbe97515aac9db5dfbd90d93">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b5519f1ac02f8d5173700df9dce5e670da133b13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/b2c2dd90117896501e7b86ece34a1da2a6a14601/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7979972576b6dbb1688052e42e5199abb54f81ba">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_03cc465bf0f892e47a1b2788ca9ff922c41d688b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/13e3e2cc22e59c672a38eea40f88b38d27680148/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c2cea9d9f39d44eddbe7fe204685e0813e1816d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.4_db9d9c7f5dc9abc44c05f9a56b43532b2a4af315/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/4197b0bc43ab59f0ae7599b244e2b4c2359ae7c0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ba4defc8cb4ed5b90b8ef71602722cdeebe507cd">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_45e8ab1333780d934a5a59b297146ffdfab50f16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/9090156af9aa00cb1a4dcea2e016ac936759489d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d7184a651c5975b49928ce7c76175d491ee7a5e">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_acf7e1ae8a710fdc6c7f2a666fa8aef9fc6561be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/663687c99d666223a3fa4d28e6b2205f2fbd7591/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3dbaff65d26258306561d545f88d6712ac41dd46">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d8cfee1c93b1e97e8caf17fff323d03169fe03d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/32e0788d75ac1ccdf9063e2206cec7ef6aa929a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b3ff0a0327e444dee495c013164d8c03e7d2ab1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/9b752436e8cd3045ed8bc17071973cd6d0f7bcfc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_825891f53164047deb1502ff4a4bdcdb4ceb5d54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/077aafa30f845d1fd648c6f2221ea422e672819c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="553e58050e91d4295a2f1d1f80ea63b41ee5bc4b">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_af230423451f8c2d3095e080cbbe87506e12324d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/52abd61ab37f75f1b83b5fe348e755ba57a8029c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_89c62be65b51ca6f80f1bcb3a60a7b424da17fbc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/489cfb9ac74e81d673f9b2080fb242d84845b003/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_07b0417e9df04321457a36d655a31855b475457d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/ecb002e3059f753d280a1e9278f91e20eea0ce23/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a00607e7cf55392edd324bc8fa3827ded7e9859b">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9c90b4ae99ae6c1ef6e36eb21104a7c83ebb09d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/27ddbc3c03977c1f97081a263ef115d6ef9f5ee3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b34276d1fea450411cedd49d3146b04838f9dd6e">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f271f52b77000de5a85ed242eb4fed3b2ac29ff5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/aff4040014016dcd8b0948dea23e539a7bdcc3e0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5efd3fde558a524e59f421b82aab004160f8ce07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/17899ef3debe1bc5c65b8e5192efed21c87c9cf3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="79100391e3b32d7323a04b7b8a9c8ad0adbae583">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b994ee5732cf875be44c7787825b42da79f5446d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/816cb0fb9d3a495344bb489cae440cb588f66e43/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_983f4ba834389e61d376b4455edb1e7d999b1d9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/4c25e3020318335d9457f95bd469f799dcf0dbde/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c6924cbba8248329a8c58ead6a380efe7eee76e">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_adf61e2483690dc786ab7f35da00f67d0f074a73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/4118c5dc9e71e043d00eeb391e650c767d9a2a27/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="81978250f6de6ffdf2ea4632e7955613103e984c">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0ab7e9710a2fa1a53dd65daa076344a7e5e8a1b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/fb10b38a89be068c91ce90a98bc5d715c475b0e5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8a6ed980c74ad35b2dfc4e1daf97bfc0eea5d7c9">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4cd1d0acac6e2694c35a6478ef49b8754667eacf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/edfdf2a60ae961a38375c8072e4e40a292bbfb78/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9b775d7b643397da3ab57e62ae8abb74a9cc9a83">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e4886b6b98d0ac8ab80340e50d38dd56a6ffee5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/fbc3c5634e9850cf634da06157ef438479b87143/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4292d77ba2b8861c930d847d50eb0a3eb904285f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/354d45dd98b789f569e258c88f605ddc1c8ff135/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1172091167cff5873cbcccad4c0e08ec9e3240de">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b202f505efe49ced5d502d381f9147e1c865ec26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/7310924ff20788c582b19678e587b68bf84f2d42/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c7ea1873b808d5117e8e30534d4688831ffc86c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/c3eac08efee88b869b3d1d2c161867a01a5804fc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ab2c6111c9e733c965725976ca2a2e57670000f9">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db2aa555a2ac4fa9bee166a6a4ba367feddd0bd8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/20a60a17c9cfa55640732674587cc527dd8fd677/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d068a922134f5f9b9f98bfc609145e09af03c2a4">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5a54bbaf0aab1fc3c3572ead3aa3b2d82764e659/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/15e398b525fb56e3f931dc6097e15e4bf00e13cf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8f83a631abfdb790591a720e0cfb5f41329831c3">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_36c269f184fe1b389f36e6234c19de132ee3eaa0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/708ef96de3e12ebdc7aa9bf8031fc73a5dad5b4f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="215363c803a119c16058c8bc0ccd0a4ee62e7157">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_413c7d22c85c35efdf761959800d3e59e5b7aa5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/8f7892ff5fa3781af7c91886491c16e1b4495db7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea1fa4be6c6cb14b51c22a4310a5ca626edf53c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/e6cbd52ed4efecee72d3e544549e95ff09aea888/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5c1f80f62ccad560edcd6609fc75f385cf7cb45a">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fae1bc0cf47c2d5a27033aebc6fd149fc66a0bbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/577752ec59ba9d048bd96a5d0be9598ce5f74c67/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="577aa74e06e6b4b407ff23ac75043685ae26dcbb">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_674b43dd62750f5316059011fa3079c2265f013c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/07884387c3f0f87495f02f9e2ad9f0b5aa18fad4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3063c59a4a5632dc497eb033ac7c21c517213d02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/48f631b366e529599587cb929afc30ca6c2c86da/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cf5f630e354827a90ffe90ce2a330495108f0595">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_85fa704055b8e845247842438b1fd16d28c52370/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/c0689ff944df2f3e94ccf730dd9d18e689a337dc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0a534044236cf81b002604643d23e7ca56bd1ee0">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3fffe00a7aff68e5e33a194bc589320c11525095/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/3a7e5852c5c9fe0e851ebe34b538d61b0c9f4373/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de24d8023e8da79f30bee46b298f606e5e758432">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4029de1cc373c597aff8e2b52597a9d840bc5912/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/27341d4bd530bb3372e11cffa04dfa4e65157897/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e7bcb61599fa0d0ec4b7efe52581d9e2cb5b566d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/a1a0261c1ffad067adb01d865e083fb21a0df3e4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2f2f16fde0c662116f735951b4e830afba373cc6">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_94432e39e60c6b4a77a7e438e5ccb96a77755eff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/0174e169d917b298f20e9aeebbd84c315ee95e8a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_040af81b0ef2b11296033f2e88571640c7623181/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/f7d977fdc3c0f5865502fb28ad08c90c863b9a8d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ec94bba6a9bbd3461d90830e0a0752a6487f5484">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_83abb1b8c09d4028c97a59f7e9ed1c6d11e051b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/8ee3ba2bb16df3c2cc02aef859e6fdb268c3dbe1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8a43729dd397e849f2a8bdc5d57a2f3170efb3ed">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fe0934c1308d93c9ce3d7c8ae0ec4444173a6887/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/8386873ed8db95aa06bdf556845e89af2b791cd2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f9aa417cd6d4373c413f6e60865133bcfdb7096b">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea7cfb39959daf014d63464b804048da51d0742a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/4d1426dd4b278867dca01133886a6f8e0ba24d84/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="079c035b2a1820bf455e0ae7fd484dec575e2182">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6c83b8ea4b203d58452b129a6ead7b082bfaebe6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/7783b61a9d116a36e90a4f67950d38cbb51ed088/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ff5114aff3bfb387577ba92a11408dcf0441c24">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a62ec13b626e0b47d94c935b3939def115fb313e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/946e77a8ba8967f8fb11a8bb09154ba3cbb268a5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aec5337725e7a3171f7f40a50d9837745693d429">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cd38cf02bd6a50f0f9111d05fffd1f02be63d399/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_b222f2beee299e3b2f418fa25fea117e04c57c9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/26858c7136a41f47a00534d6002cd9c42d5c9105/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="60a8cdd1ad9b8d22a5d44bc8e479257ced2bf075">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac427ddfdaae0585621ca47e7497501cb8edbeaf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/beae06d8ce67d6cbe19f0f1a5fbd021bdaeadaf9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e8fce8763c0ef41d7f1bf390f1e879d484c30f75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/3cb8af10bf33d650f415d1e87f1b945591abdb42/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_53256c1ac87fcd6b2025af86d4e205f35daafedf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/a013319d2b16523f5761c2b89eeaef68fe3a37d6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1b41f7538ea1af0aad76cb3253b87b13744788c2">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6723f58658749a302570801940102c816e27c236/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_08b7c87fbf4474944c729ad0e5ac6a00d73d1d19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/6ecd8fe8bada7a47e5f25ba693363d042e239fa1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e5553c3597d5f766a8364a49925fcbb304bb091b">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a4fadca1008fff0be8749f5472543081bb4fb2cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/9740008c47f2ff1ebd539bc75cdefa8ee5de44e7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d111ef61acb27bca9c6b27e08e8a1cd9f362f0f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/c927aeb004207c2ee4adb1570826805b77cb0c56/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="740c4226d6bec1adaaf5fee4b9178674b695f75a">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_afd0df455e7e8cf17d5f1f9f05d3f9984307dd6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/93c5f8ebbf1e9c72cf1d89e94df5800455b3f0a9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4e5223997fa6032b326167ee4586ae0b3498647">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f874ade3c23ec6a6fdb95cec6f1804131f3e1cd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/3d5ce2d4bef36d0c703d4df0666c5ab76ccf7a12/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7b3eaf755284fb08a6d616a55fbb07dc3917d5e7">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_efa4e64b0cd00f3636f28afd926e5cb33ae1bb70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/c943d84a176e2bcb42e217bc3b6490801a0fdb75/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_50853d488f16ae6e347d612ced5ec8493fed9b07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/4b2838bc20be73cd4b231f246f0687e73efd8472/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ebaa4db062b67a206decb3804b4b7af45f508a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/962e177577332eb3757137d0f0d8fac0a97b2a89/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c4ba6d53176502b2672a5d7d25a0000d1a6e701c">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_216ce9deb1e4ba3cd7b32faa4c18d09711209298/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/3e06d4b42f49b9072d7238a23442d7bbf15af4dd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c7e0d83e333a25f969bce43db78150c63e7aa0c">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2998172ecb6a90b6bb258ce3d7a28ddecdc6d49c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/c7eaf998bf0e7f84b5e03fa213e42b80c02d6fa2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d79c575e1d97b0298746a4c032a0c1dc201c2f82">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_93244b70ccaa9feeacabd74be1dce558919eca06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6a23be31251db1c558e03177d747f7a838d07676">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_65a15f1f1b84ecf2a411a743fdee066b8603c7cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/e2fedc566a07450dfd29aae05f8e9994d389c80c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da832806828ba407284c0c4b1d87b8f9ed9f2520">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_46756308211fae3ce65f542ecbdacd8cbbfffdd7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_0f363481c95d96a2abe6097cbb4149cd7de7650a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/56ee79b05ca2c69d9d0218fac24d4b6b048f0e9c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f7c2ada1aa6f1b15cc9c48ad9b2bc2293e768c89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/4a8c3be39c288dde7868ba57e263ccb34946fbbc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cea6fccbfe2b9ca7701a8766710179cd41ae1974">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f5aacabf739f39fb3541e62c861951dd477663ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/7b810ab499c0bf8fca7599eabe2db26107d28233/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd057bc43f1c1e2f13566f5fe800d077b08b61b9">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_91a1dbc09721b0a24f7c03ac56ca884a7b0a30db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/12627bef254406d5a7e552910a802e15a7cf3503/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f1968b9614bc6851e99db64e356cf60063503e5d">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_adb120689435e49814d5ecb9081a56a2386f4547/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/5cfe0a2cf87acb6938d435beb31ec6df2e241e0b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="84a9797d6c3dd732d00f0433edc17778573cea17">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_37e7c26b6558a3d09a246890cdb8be5ae65c66dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/b3b716aa3b14d0219242047adce5493d6c00971c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9024225796c3f11342ef6a4a99439f2f988bafb0">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0a5b1450ca318b03713062f326f74db910177adb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/17a95bee48a4598d7eed8902eb666ef3a714d0d9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_36c0e77511c1d8dc45f7af1c8399f7ff9c06b899/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/906acddcfe645f105ef3f4292b24a3fbd574943b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d54a722583c1b99735f62d395806fa38bf5669ae">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_620c836edb86f6a6389e2326517baecc35f45126/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/c7579b11df49196c3321e99f11f8b97f585b8aad/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5594469d11afe44ab1fae4ab2b2b3723209dc60e">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a4d484fa7974ca19d40495e671b1d7e4aa48674b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandeepysv/.android/build-cache/d56816c8e5e01e1c852f7db48466a1119c9ff26d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cad5ae5774f39b7017a3ae3d103e7b78506397b0">
+        <dex dex="/Users/sandeepysv/Downloads/BloodDonors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8315ecdaa10e71bd83b1134526f8fbcc59be8a16/classes.dex" />
+    </item>
+
+</items>

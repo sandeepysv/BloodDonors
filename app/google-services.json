@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "559306360015",
+    "firebase_url": "https://blood-management-system-9a228.firebaseio.com",
+    "project_id": "blood-management-system-9a228",
+    "storage_bucket": "blood-management-system-9a228.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559306360015:android:03f04f1e97460a0c",
+        "android_client_info": {
+          "package_name": "com.rafig.blooddonors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559306360015-unl6v2782j8d4jvqho0ra06sh3emktqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rafig.blooddonors",
+            "certificate_hash": "84f05536873901d568274de9d2dde816c2595bb0"
+          }
+        },
+        {
+          "client_id": "559306360015-bm3eqv80n6dt0it7p4q97jl1437i5pvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChTm_Yo5JAICZ1-VpBgXjOey69CV92JMU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559306360015-bm3eqv80n6dt0it7p4q97jl1437i5pvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

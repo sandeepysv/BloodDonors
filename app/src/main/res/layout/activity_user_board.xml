@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_user_board"
+    android:paddingBottom="10dp"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.sandeepysv.blooddonors.com.sandeepysv.blooddonors.UserBoard">
+
+    <ImageView
+        android:id="@+id/icon"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/welcome"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        android:id="@+id/usr_welcome"
+        android:layout_below="@id/icon"
+        android:layout_margin="5sp"
+        android:text="Welcome !"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:textSize="28sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorPrimaryDark"
+        tools:ignore="HardcodedText" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/usr_welcome">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <br.com.bloder.magic.view.MagicButton
+        android:id="@+id/usr_am"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        app:magic_button_size="64dp"
+        app:button_icon="@drawable/book"
+        app:button_icon_width="40dp"
+        app:button_icon_height="40dp"
+        app:hide_text="     Add/Modify"
+        app:hide_text_size="6dp"
+        app:hide_text_color="@android:color/white"
+        app:icon_button_color="@android:color/transparent"
+        app:expandable_area_color="#a22442" />
+
+    <br.com.bloder.magic.view.MagicButton
+        android:id="@+id/usr_search"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/usr_am"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        app:magic_button_size="64dp"
+        app:button_icon="@drawable/cancel"
+        app:button_icon_width="40dp"
+        app:button_icon_height="40dp"
+        app:hide_text="  Search"
+        app:hide_text_size="6dp"
+        app:hide_text_color="@android:color/black"
+        app:icon_button_color="@android:color/transparent"
+        app:expandable_area_color="#e8e8e8" />
+
+    <br.com.bloder.magic.view.MagicButton
+        android:id="@+id/usr_disp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/usr_search"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        app:magic_button_size="64dp"
+        app:button_icon="@drawable/change"
+        app:button_icon_width="40dp"
+        app:button_icon_height="40dp"
+        app:hide_text="  Display"
+        app:hide_text_size="6dp"
+        app:hide_text_color="@android:color/white"
+        app:icon_button_color="@android:color/transparent"
+        app:expandable_area_color="#8d2429" />
+
+    <br.com.bloder.magic.view.MagicButton
+        android:id="@+id/usr_exit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/usr_disp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        app:magic_button_size="64dp"
+        app:button_icon="@drawable/logout"
+        app:button_icon_width="40dp"
+        app:button_icon_height="40dp"
+        app:hide_text=" Logout"
+        app:hide_text_size="6dp"
+        app:hide_text_color="@android:color/black"
+        app:icon_button_color="@android:color/transparent"
+        app:expandable_area_color="#fabc3d" />
+
+    </RelativeLayout>
+
+    </ScrollView>
+
+</RelativeLayout>
